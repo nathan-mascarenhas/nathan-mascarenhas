@@ -8,4 +8,4 @@
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/nathan-mascarenhas)   
 <a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=nathan-mascarenhas&show_icons=true&theme=gotham"></a>
 ## 📱 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](malito:nathan-mascarenhas@hotmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nathan-mascarenhas@gmail.com)
