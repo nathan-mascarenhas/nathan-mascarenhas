@@ -6,4 +6,4 @@
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/nathan-mascarenhas)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/nathan-mascarenhas)
 
-<a><img width="100%" height="0" src="https://github-readme-stats.vercel.app/api?username=nathan-mascarenhas&show_icons=true&theme=gotham"></a>
+<a><img width="100%" height="100" src="https://github-readme-stats.vercel.app/api?username=nathan-mascarenhas&show_icons=true&theme=gotham"></a>
