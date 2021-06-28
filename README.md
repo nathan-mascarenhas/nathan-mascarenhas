@@ -9,3 +9,4 @@
 <a><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=nathan-mascarenhas&show_icons=true&theme=gotham"></a>
 ## 📱 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nathan-mascarenhas@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/nathan-mascarenhas-a181531a5/)
