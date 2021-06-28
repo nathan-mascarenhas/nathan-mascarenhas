@@ -1,6 +1,3 @@
-<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="file:///C:/Users/NamaS/Downloads/Coding-bro%20(1).svg" alt="a rocket on launch" width=50% height=50% />
-</a>
 ### 💻 Languages
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nathan-mascarenhas)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/nathan-mascarenhas) 
