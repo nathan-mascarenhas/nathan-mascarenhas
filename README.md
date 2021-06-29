@@ -1,5 +1,5 @@
 <a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://user-images.githubusercontent.com/75588037/123878012-ae31ba80-d914-11eb-979a-42d0061d6e27.png" alt="Coding" width=50% height=50% />
+  <img align="right" src="https://user-images.githubusercontent.com/75588037/123878012-ae31ba80-d914-11eb-979a-42d0061d6e27.png" alt="Coding" width=50% height=100% />
 </a>
 
 
