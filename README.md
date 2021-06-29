@@ -1,3 +1,6 @@
+<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
+  <img align="right" src="https://user-images.githubusercontent.com/75588037/123878012-ae31ba80-d914-11eb-979a-42d0061d6e27.png" alt="Coding" width=50% height=50% />
+</a>
 ### 💻 Languages
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nathan-mascarenhas)
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/nathan-mascarenhas) 
@@ -10,4 +13,3 @@
 ## 📱 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:nathan-mascarenhas@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/nathan-mascarenhas-a181531a5/)
-[![Code]![Coding-bro](https://user-images.githubusercontent.com/75588037/123878012-ae31ba80-d914-11eb-979a-42d0061d6e27.png)
